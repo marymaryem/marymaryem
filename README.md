@@ -271,11 +271,11 @@ I'm always happy to exchange ideas, learn from others, and collaborate on projec
 <img src="https://img.shields.io/badge/GitHub-marymaryem-315D4B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="www.linkedin.com/in/mariem-belaid">
+<a href="https://www.linkedin.com/in/mariem-belaid">
 <img src="https://img.shields.io/badge/LinkedIn-Mariem%20Belaid-315A8C?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mariembelaid822@gmail.com">
+<a href="mailto:mariembelaid822@gmail.com">
 <img src="https://img.shields.io/badge/Email-Say%20Hello-B65F43?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
