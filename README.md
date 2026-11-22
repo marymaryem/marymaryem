@@ -13,7 +13,7 @@
 
 Sousse, Tunisia
 
-[GitHub](https://github.com/marymaryem) &nbsp; · &nbsp; [LinkedIn](YOUR_LINKEDIN_URL) &nbsp; · &nbsp; [Email](mailto:YOUR_EMAIL)
+[GitHub](https://github.com/marymaryem) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/mariem-belaid) &nbsp; · &nbsp; [Email](mailto:mariembelaid822@gmail.com)
 
 </div>
 
